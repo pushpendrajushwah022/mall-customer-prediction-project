@@ -71,4 +71,5 @@ This project was developed for learning and practical application of data engine
 
 The dashboard includes customer KPIs, churn analysis by city, customer retention, and actual vs. predicted churn.
 
+<img width="1341" height="775" alt="WhatsApp Image 2026-10-10 at 8 58 59 PM" src="https://github.com/user-attachments/assets/cb04dbf1-f37c-4023-8ac6-fabb13d6a46b" />
 
